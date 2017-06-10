@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Module 'scala'" />
+    <option name="defaultScopeName" value="Module 'scala'" />
+    <option name="SEARCH_SCOPE" value="Module 'scala'" />
   </component>
 </application>
